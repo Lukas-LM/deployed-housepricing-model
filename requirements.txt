@@ -2,3 +2,4 @@ Pandas
 NumPy
 Sklearn
 Streamlit
+joblib

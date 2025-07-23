@@ -61,3 +61,10 @@ This project marks the transition from model development to deployment. It demon
 Building multiple regression models and selecting the best-performing one
 Saving and loading models with joblib
 Creating a simple web interface using Streamlit for end-user interaction
+
+---
+
+## Live Demo
+
+Test the web app online and interact with the model in real-time:
+[https://deployed-housepricing-model-g6avzurvxasca8owxtqrea.streamlit.app/](https://deployed-housepricing-model-g6avzurvxasca8owxtqrea.streamlit.app/)

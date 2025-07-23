@@ -15,15 +15,15 @@ This repository contains a machine learning project focused on predicting house 
 
 ## Models Evaluated
 
+- Linear Regression
 - Decision Tree Regressor  
 - Random Forest Regressor (best performing)  
-- Gradient Boosting Regressor  
 
 ---
 
 ## Workflow
 
-1. Data cleaning and preprocessing (outside this repo)  
+1. Data cleaning and preprocessing  
 2. Model training and hyperparameter tuning using GridSearchCV  
 3. Model serialization with `joblib`  
 4. Deployment of the Random Forest model via a Streamlit app  
@@ -47,6 +47,11 @@ Deployment Housepricing/
 ├── Deployment.py
 ├── Housepricing_in_Ames_model.pkl
 └── housepricing_model.py
+
+requirements.txt
+README.md
+LICENSE
+.gitignore
 
 ---
 
